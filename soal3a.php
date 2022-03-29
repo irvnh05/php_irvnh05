@@ -1,6 +1,6 @@
-<?php 
+<!-- <?php 
 include 'config.php';
-?>
+?> -->
  
 <h3>Laporan Hobi</h3>
  
